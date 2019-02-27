@@ -1,3 +1,4 @@
 # vokasi
 
-Link aplikasi heroku: https://whispering-cove-28072.herokuapp.com
+Aplikasi staging: https://vokasi-staging.herokuapp.com
+Aplikasi LIVE PRODUCTION: https://vokasi-production.herokuapp.com
